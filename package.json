@@ -6,7 +6,7 @@
 	"homepage": "./",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Jmacr0/update-repo-demo"
+		"url": "https://github.com/learncodingforweb/learndesktopupdate"
 	},
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.2",
